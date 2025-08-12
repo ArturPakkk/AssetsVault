@@ -1,0 +1,20 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "AssetVault",
+	"Description": "A plugin for asset management.",
+	"Category": "Other",
+	"CreatedBy": "Artur",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "AssetVault",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
