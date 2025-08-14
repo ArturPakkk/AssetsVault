@@ -7,7 +7,7 @@
 - **Import** into another project with dependency check & conflict resolution  
 - **Metadata** saved to JSON (author, tags, description)
 
-> Demo video: *(https://www.youtube.com/watch?v=pU5n1MmenjM)*  
+*[Demo video](https://www.youtube.com/watch?v=2Ks1qSt-joM)*  
 
 ---
 
