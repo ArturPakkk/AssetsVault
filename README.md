@@ -1,13 +1,13 @@
-# AssetVault — UE5 Export/Import Plugin
+# AssetVault - UE5 Export/Import Plugin
 
 **AssetVault** lets you export assets & mechanics from one Unreal Engine 5 project and import them into another, preserving files and metadata (name, description, author, version) in JSON.
 
-- **UE5-compatible** (5.4–5.5)  
+- **UE5-compatible** (5.4-5.5)  
 - **Export** Blueprints, Materials, Textures, Models, Widgets, Niagara, etc.  
 - **Import** into another project with dependency check & conflict resolution  
 - **Metadata** saved to JSON (author, tags, description)
 
-> Demo video: *(https://www.youtube.com/watch?v=pU5n1MmenjM)*  
+*[Demo video](https://www.youtube.com/watch?v=2Ks1qSt-joM)*  
 
 ---
 
